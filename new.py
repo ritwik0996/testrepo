@@ -1,4 +1,4 @@
-name = input("Give me your name: ")
-print("Your name is " + name)
+age = input("Enter your age: ")
+age = int(age)
 
-#program to greet a person
+print(age)
